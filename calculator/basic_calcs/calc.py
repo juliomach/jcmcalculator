@@ -26,7 +26,7 @@ class Calc():
         return f"{self._number1} - {self._number2} = {total}"
 
     def mul(self):
-        """ MULT """
+        """ MULT - Issue Number #3 """
         total = self._number1 * self._number2
         return f"{self._number1} x {self._number2} = {total}"
 
