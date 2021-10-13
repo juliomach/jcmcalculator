@@ -1,0 +1,4 @@
+#!/Users/juliomach/MEGA/OpenShift/jcmcalculator/bin/python3.9
+
+from calculator import jcmcalculator
+jcmcalculator.main()
