@@ -16,7 +16,7 @@ class Calc():
         self._number2 = number2
 
     def sum(self):
-        """ SUM """
+        """ SUM - Issue #1 """
         total = self._number1 + self._number2
         return f"{self._number1} + {self._number2} = {total}"
 
