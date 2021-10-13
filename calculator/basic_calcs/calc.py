@@ -21,7 +21,7 @@ class Calc():
         return f"{self._number1} + {self._number2} = {total}"
 
     def sub(self):
-        """ SUB """
+        """ SUB - Issue Number #2 """
         total = self._number1 - self._number2
         return f"{self._number1} - {self._number2} = {total}"
 
