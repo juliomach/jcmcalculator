@@ -31,7 +31,7 @@ class Calc():
         return f"{self._number1} x {self._number2} = {total}"
 
     def div(self):
-        """ DIV """
+        """ DIV - Issue Number #4 """
         try:
             total = self._number1 / self._number2
             return f"{self._number1} / {self._number2} = {total}"
