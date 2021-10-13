@@ -4,6 +4,6 @@ This calculator project is intended to practice development in the Python langua
 
 _Calculator_: addition, subtraction, multiplication and division.
 
-Run the command `python3 jcmcalculator.py`.
+Run the command `python3 calculator/jcmcalculator.py`.
 
 In the future ... trigonometric calculations.
